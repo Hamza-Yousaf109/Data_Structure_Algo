@@ -29,11 +29,9 @@ q=Queue()
 print(q.get_front())
 
 ##exception handling 
-try:
-    print(q.get_front())
-except:IndexError as e:
-    print(e.args(0))  
-
+#try: print(q.get_front())
+#except: IndexError as e:
+#    print(q.args(0))  
 
 
 

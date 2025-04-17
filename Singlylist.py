@@ -101,7 +101,7 @@ class Slliterable:
 
              
 
-
+"""
 #Driver code
 mylist=Sll()
 mylist.insert_at_start(20)
@@ -113,3 +113,4 @@ mylist.insert_at_last(30)
 mylist.print_list()
 #for x in mylist:
  #   print(x)
+ """

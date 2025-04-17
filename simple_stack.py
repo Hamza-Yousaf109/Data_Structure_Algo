@@ -26,7 +26,7 @@ s1.push(20)
 s1.push(30)
 
 print("top element" ,s1.peek())    
-print("remove ",s1.size())
+print("size of elements ",s1.size())
 print("top element" ,s1.peek())  
 
 
